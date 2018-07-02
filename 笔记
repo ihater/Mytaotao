@@ -3,7 +3,7 @@ https://blog.csdn.net/ethan_xue/article/details/7753360
 * 项目的右下角的金色的圆柱标识表示该项目已经是Git的资源库；
 * 包或文件的右下角的问号表示新创建且并未提交的；
 * 包或文件的右下角的绿色加号表示 文件已经添加到Git暂存区，但并未提交到Git仓库里；
-* 项目或包的右下角的黑色星花表示本地的项目与Git仓库中的版本不同（本地已经更改了）；
+* 项目或包的右下角的      黑色星花       表示本地的项目与Git仓库中的版本不同（本地已经更改了）；
 * 在项目或包或文件名的左侧会有一个>的标识，说明文件已更改，但未提交。
 5.将项目提交到本地Git仓库
 首先，选中项目，在项目上右键—>Team—>Add to Index
@@ -11,3 +11,6 @@ https://blog.csdn.net/ethan_xue/article/details/7753360
 
     Add to Index:将项目添加到Git暂存区
     Commit：将项目提交到Git仓库
+
+ 
+ 为什么要使用dubbo，因为webservice使用XML传输，效率低。
